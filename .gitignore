@@ -1,0 +1,5 @@
+
+#Ignoramos las imagenes en el repositorio. De todas formas estamos usando una de un enlace externo.
+*.jpg
+
+/hyperblo-1/
